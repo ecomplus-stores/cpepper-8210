@@ -1,24 +1,17 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 40%!",
+    "text": "Envio por R$ 10,00 para todo o Brasil",
     "link": "/promotion"
   },
   "contacts_stripe": {
-    "pages": [
-      {
-        "title": "Sobre nós",
-        "link": "/pages/sobre-nos"
-      },
-      {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
-      }
-    ],
-    "phone_wpp": true,
-    "socials": true
+    "pages": [],
+    "phone_wpp": false,
+    "socials": false
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/faz-chorar?Faz chorar"
+    ],
     "random": 6,
     "full_width": false
   },
