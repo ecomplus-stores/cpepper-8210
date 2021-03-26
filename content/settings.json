@@ -1,7 +1,7 @@
 {
   "domain": "cpepper.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#222831",
+  "primary_color": "#1d1b1b",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
@@ -15,7 +15,7 @@
   "mini_logo": "",
   "favicon": "/img/uploads/favicon.png",
   "country_code": "BR",
-  "secondary_color": "#990000",
+  "secondary_color": "#424242",
   "icon": "/img/icon.png",
   "store_id": 1237,
   "description": "cpepperr",
