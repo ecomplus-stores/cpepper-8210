@@ -20,17 +20,12 @@
     "email": true,
     "address": true
   },
-  "stamps": [
-    {
-      "src": "/img/uploads/ssl-safe.png",
-      "alt": "Secure connection"
-    }
-  ],
+  "stamps": [],
   "payment_methods": {
     "bb": false,
     "visa": true,
     "boleto": true,
-    "aura": true,
+    "aura": false,
     "banrisul": false,
     "elo": true,
     "hipercard": true,
