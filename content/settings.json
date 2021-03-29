@@ -1,5 +1,5 @@
 {
-  "domain": "cpepper-8210.netlify.app",
+  "domain": "heat.netlify.app",
   "currency_symbol": "R$",
   "primary_color": "#1d1b1b",
   "theme": {
@@ -8,8 +8,8 @@
   },
   "bg_color": "#ffffff",
   "logo": "/img/uploads/logo-heat.png",
-  "name": "cpepper",
-  "short_name": "cpepper",
+  "name": "HEAT",
+  "short_name": "HEAT",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
@@ -18,6 +18,6 @@
   "secondary_color": "#424242",
   "icon": "/img/uploads/logo-app.png",
   "store_id": 1237,
-  "description": "cpepperr",
+  "description": "A maior variedade de molhos de pimenta do Brasil",
   "large_icon": "/img/uploads/logo-app.png"
 }
