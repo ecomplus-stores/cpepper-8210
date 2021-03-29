@@ -7,17 +7,17 @@
     "custom": "_"
   },
   "bg_color": "#ffffff",
-  "logo": "/img/uploads/captura-de-tela-2021-03-26-a-s-15.03.47.png",
+  "logo": "/img/uploads/logo-heat.png",
   "name": "cpepper",
   "short_name": "cpepper",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "favicon": "/img/uploads/favicon.png",
+  "favicon": "/img/uploads/logo-app.png",
   "country_code": "BR",
   "secondary_color": "#424242",
-  "icon": "/img/icon.png",
+  "icon": "/img/uploads/logo-app.png",
   "store_id": 1237,
   "description": "cpepperr",
-  "large_icon": "/img/large-icon.png"
+  "large_icon": "/img/uploads/logo-app.png"
 }
