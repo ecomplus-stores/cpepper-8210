@@ -25,6 +25,30 @@
       "page": 1,
       "sort": "views",
       "title": "Acha que aguenta pimenta forte? Então saca estas!"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/pepper-sauce-banner-web-final.jpeg"
+        },
+        {
+          "img": "/img/uploads/hoff-sauce-banner.jpeg"
+        }
+      ]
+    },
+    {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "60706cf533554a7d2d4049cf:collections:Carolina Reaper:/carolina-reaper",
+      "title": "Vai enfrentar a Carolina Reaper?"
     }
   ]
 }
