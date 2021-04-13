@@ -8,17 +8,18 @@
       "type": "page-title"
     },
     {
-      "type": "document-banner",
+      "type": "collection-retail",
+      "enabled": true,
+      "sort": "views"
+    },
+    {
+      "type": "document-description",
       "enabled": true
     },
     {
       "type": "collection-retail",
       "enabled": true,
       "sort": "sales"
-    },
-    {
-      "type": "document-description",
-      "enabled": true
     }
   ]
 }
