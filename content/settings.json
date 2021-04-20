@@ -7,17 +7,17 @@
     "custom": "_"
   },
   "bg_color": "#ffffff",
-  "logo": "/img/uploads/logo-ms-pepe.png",
+  "logo": "/img/uploads/logo-ms-pepe-horizontal.png",
   "name": "Ms. Pepe",
   "short_name": "Ms. Pepe",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "favicon": "/img/uploads/favicon.png",
+  "favicon": "/img/uploads/favicon-ms-pepe.png",
   "country_code": "BR",
   "secondary_color": "#424242",
-  "icon": "/img/uploads/favicon.png",
+  "icon": "/img/uploads/favicon-ms-pepe.png",
   "store_id": 1237,
   "description": "A maior variedade de molhos de pimenta do Brasil",
-  "large_icon": "/img/uploads/favicon.png"
+  "large_icon": "/img/uploads/favicon-ms-pepe.png"
 }
