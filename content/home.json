@@ -9,7 +9,9 @@
         {
           "start": "2021-03-27T10:53:15.808Z",
           "end": "",
-          "img": "/img/uploads/banner-1.jpeg"
+          "img": "/img/uploads/banner-hero-v1-leve.jpeg",
+          "alt": "Confira os molhos de pimenta mais ardidos de todos",
+          "link": "https://www.mspepe.com.br/faz-chorar"
         }
       ]
     },
@@ -26,10 +28,14 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/pepper-sauce-banner-web-final.jpeg"
+          "img": "/img/uploads/banner-pym-co-pia-leve.jpeg",
+          "alt": "Compre a linha de molhos de pimentas PYM - Pepper Your Mind",
+          "link": "https://www.mspepe.com.br/marcas/pepper-your-mind"
         },
         {
-          "img": "/img/uploads/hoff-sauce-banner.jpeg"
+          "img": "/img/uploads/banner-carolina-reaper-leve.jpeg",
+          "link": "https://www.mspepe.com.br/search?term=carolina",
+          "alt": "Confira os molhos feitos com a temida pimenta Carolina Reaper"
         }
       ]
     },
