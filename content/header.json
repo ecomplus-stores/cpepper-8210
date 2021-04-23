@@ -9,10 +9,8 @@
     "socials": false
   },
   "categories_list": {
-    "featured": [
-      "/faz-chorar?Faz chorar"
-    ],
-    "random": 6,
+    "featured": [],
+    "random": 0,
     "full_width": false
   },
   "search_input": true
