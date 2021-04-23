@@ -1,7 +1,5 @@
 {
-  "sort_categories": [
-    "faz-chorar"
-  ],
-  "phone_wpp": false,
-  "socials": false
+  "sort_categories": [],
+  "phone_wpp": true,
+  "socials": true
 }
