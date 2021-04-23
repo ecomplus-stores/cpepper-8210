@@ -1,5 +1,11 @@
 {
-  "sort_categories": [],
+  "sort_categories": [
+    "cat5",
+    "cat4",
+    "cat3",
+    "cat2",
+    "cat1"
+  ],
   "phone_wpp": true,
   "socials": true
 }
