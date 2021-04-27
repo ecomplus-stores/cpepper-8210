@@ -18,7 +18,7 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "collection_id": "605a5ca74b948446086933be:categories:Faz chorar:/faz-chorar",
+      "collection_id": "605a5ca74b948446086933be:categories:Sogra com raiva:/sogra-com-raiva",
       "limit": 12,
       "page": 1,
       "sort": "views",
@@ -49,8 +49,8 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "60706cf533554a7d2d4049cf:collections:Carolina Reaper:/carolina-reaper",
-      "title": "Vai enfrentar a Carolina Reaper?"
+      "collection_id": "605cdf1ba46e555927c52e01:brands:Alma Quente:/marcas/alma-quente",
+      "title": "Quer um molho com alma? Experimente os da Alma Quente!"
     }
   ]
 }
