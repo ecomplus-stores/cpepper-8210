@@ -9,12 +9,12 @@
     },
     {
       "type": "document-banner",
-      "enabled": false
+      "enabled": true
     },
     {
       "type": "category-retail",
       "enabled": true,
-      "sort": "sales"
+      "sort": "views"
     },
     {
       "type": "document-description",
