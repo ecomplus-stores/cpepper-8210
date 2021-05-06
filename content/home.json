@@ -3,15 +3,37 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "slides": [
+      "type": "banners-grid",
+      "banners": [
         {
-          "start": "2021-03-27T10:53:15.808Z",
-          "end": "",
-          "img": "/img/uploads/molhos-banner-leve.jpeg",
-          "alt": "Confira os molhos de pimenta mais ardidos de todos",
-          "link": "https://www.mspepe.com.br/sogra-com-raiva"
+          "img": "/img/uploads/escala-5.jpg",
+          "link": "https://www.mspepe.com.br/sogra-com-raiva",
+          "alt": "Os molhos de pimenta mais temidos. Aqui você encontra os mais ardidos."
+        },
+        {
+          "img": "/img/uploads/escala-4.jpg",
+          "link": "https://www.mspepe.com.br/vai-com-calma",
+          "alt": "Parece até que tem um Sol pra cada um, mas são só uns molhos de pimenta realmente fortes!"
+        },
+        {
+          "img": "/img/uploads/escala-3.jpg",
+          "link": "https://www.mspepe.com.br/calorzinho",
+          "alt": "Parece que não, mas estes molhos de pimenta são bem fortes!"
+        },
+        {
+          "img": "/img/uploads/escala-2.jpg",
+          "link": "https://www.mspepe.com.br/ta-tranquilo",
+          "alt": "Tá tranquilo, tá favorável. Esse molho de pimenta vai bem e refresca!"
+        },
+        {
+          "img": "/img/uploads/escala-1.jpg",
+          "link": "https://www.mspepe.com.br/para-escovar-os-dentes",
+          "alt": "Esses molhos são saborosos e quase sem ardência. Até criança fica suave na nave!"
+        },
+        {
+          "img": "/img/uploads/todas.jpg",
+          "link": "https://www.mspepe.com.br/search?term=pimenta",
+          "alt": "Confira todos os molhos de pimenta especialmente escolhidos por mim, Ms. Pepe. Aqui, só entram os melhores."
         }
       ]
     },
