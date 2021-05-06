@@ -3,6 +3,28 @@
   "meta_description": "",
   "sections": [
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "slides": [
+        {
+          "start": "2021-05-06T19:57:28.162Z",
+          "end": "2021-05-06T19:57:28.194Z",
+          "img": "/img/uploads/banner-todas-pimentas.jpeg",
+          "link": "https://www.mspepe.com.br/search?term=pimenta",
+          "alt": "Confira todos os molhos de pimenta especialmente escolhidos por mim, Ms. Pepe. Aqui, só entram os melhores."
+        }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "collection_id": "605a5ca74b948446086933be:categories:As mais temidas:/as-pimentas-mais-temidas",
+      "limit": 12,
+      "page": 1,
+      "sort": "views",
+      "title": "Acha que aguenta pimenta forte? Então saca estas!"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
@@ -16,6 +38,14 @@
           "alt": "Parece até que tem um Sol pra cada um, mas são só uns molhos de pimenta realmente fortes!"
         }
       ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "605cdf1ba46e555927c52e01:brands:Alma Quente:/marcas/alma-quente",
+      "title": "Quer um molho com alma? Experimente os da Alma Quente!"
     },
     {
       "type": "banners-grid",
@@ -34,28 +64,19 @@
       ]
     },
     {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
           "img": "/img/uploads/escala-1.jpg",
           "link": "https://www.mspepe.com.br/molhos-de-pimenta-suave-na-nave",
           "alt": "Esses molhos são saborosos e quase sem ardência. Até criança fica suave na nave!"
-        },
-        {
-          "img": "/img/uploads/banner-todas-pimentas.jpeg",
-          "link": "https://www.mspepe.com.br/search?term=pimenta",
-          "alt": "Confira todos os molhos de pimenta especialmente escolhidos por mim, Ms. Pepe. Aqui, só entram os melhores."
         }
       ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "collection_id": "605a5ca74b948446086933be:categories:Sogra com raiva:/sogra-com-raiva",
-      "limit": 12,
-      "page": 1,
-      "sort": "views",
-      "title": "Acha que aguenta pimenta forte? Então saca estas!"
     },
     {
       "type": "banners-grid",
@@ -71,19 +92,6 @@
           "alt": "Confira os molhos feitos com a temida pimenta Carolina Reaper"
         }
       ]
-    },
-    {
-      "type": "brands-carousel",
-      "limit": 24,
-      "offset": 0
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "605cdf1ba46e555927c52e01:brands:Alma Quente:/marcas/alma-quente",
-      "title": "Quer um molho com alma? Experimente os da Alma Quente!"
     }
   ]
 }
