@@ -14,17 +14,28 @@
           "img": "/img/uploads/escala-4.jpg",
           "link": "https://www.mspepe.com.br/vai-com-calma",
           "alt": "Parece até que tem um Sol pra cada um, mas são só uns molhos de pimenta realmente fortes!"
-        },
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
         {
           "img": "/img/uploads/escala-3.jpg",
           "link": "https://www.mspepe.com.br/calorzinho",
-          "alt": "Parece que não, mas estes molhos de pimenta são bem fortes!"
+          "alt": "Parece que não, mas estes molhos de pimenta são bem fortes!",
+          "mobile_img": ""
         },
         {
           "img": "/img/uploads/escala-2.jpg",
           "link": "https://www.mspepe.com.br/ta-tranquilo",
           "alt": "Tá tranquilo, tá favorável. Esse molho de pimenta vai bem e refresca!"
-        },
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
         {
           "img": "/img/uploads/escala-1.jpg",
           "link": "https://www.mspepe.com.br/para-escovar-os-dentes",
