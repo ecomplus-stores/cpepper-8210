@@ -1,11 +1,9 @@
 {
   "sort_categories": [
-    "as-pimentas-mais-temidas",
-    "pimentas-um-sol-pra-cada-um",
-    "pimenta-parece-que-nao-mas-ta-quente",
-    "pimenta-suave-ta-tranquilo-ta-favoravel",
-    "molhos-de-pimenta-suave-na-nave"
+    "azeites",
+    "pimentas"
   ],
   "phone_wpp": true,
-  "socials": true
+  "socials": true,
+  "alphabetical_order": true
 }
