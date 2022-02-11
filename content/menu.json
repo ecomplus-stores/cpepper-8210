@@ -1,14 +1,9 @@
 {
   "sort_categories": [
     "azeites",
-    "pimentas",
-    "pimentas/as-mais-temidas",
-    "pimentas/um-sol-pra-cada-um",
-    "pimentas/parece-que-nao-mas-ta-quente",
-    "pimentas/ta-tranquilo-ta-favoravel",
-    "pimentas/suave-na-nave"
+    "pimentas"
   ],
   "phone_wpp": true,
   "socials": true,
-  "alphabetical_order": true
+  "alphabetical_order": false
 }
