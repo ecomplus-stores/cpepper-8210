@@ -7,18 +7,20 @@
     "custom": "_"
   },
   "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/cpepper-8210",
   "logo": "/img/uploads/logo-ms-pepe-horizontal.png",
   "name": "Ms. Pepe",
-  "repository": "ecomplus-stores/cpepper-8210",
   "short_name": "Ms. Pepe",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
+  "font_family": "_",
   "favicon": "/img/uploads/favicon-ms-pepe.png",
+  "icons_font": "_",
   "country_code": "BR",
   "secondary_color": "#424242",
   "icon": "/img/uploads/favicon-ms-pepe.png",
   "store_id": 1237,
-  "description": "A maior variedade de molhos de pimenta do Brasil",
+  "description": "A melhor curadoria de produtos do Brasil!",
   "large_icon": "/img/uploads/favicon-ms-pepe.png"
 }
