@@ -3,95 +3,26 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "slides": [
-        {
-          "start": "2021-05-06T19:57:28.162Z",
-          "end": "",
-          "img": "/img/uploads/banner-todas-slim.png",
-          "link": "https://www.mspepe.com.br/search?term=pimenta",
-          "alt": "Confira todos os molhos de pimenta especialmente escolhidos por mim, Ms. Pepe. Aqui, só entram os melhores."
-        }
-      ]
+      "type": "responsive-banner",
+      "img": "/img/uploads/banner-grande-desktop.png",
+      "link": "https://www.mspepe.com.br/pimentas",
+      "mobile_img": "/img/uploads/design-sem-nome.png"
     },
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "collection_id": "605a5ca74b948446086933be:categories:As mais temidas:/as-pimentas-mais-temidas",
+      "collection_id": "60944d30170b4755aec7fe92:categories:Pimentas:/pimentas",
       "limit": 12,
       "page": 1,
       "sort": "views",
-      "title": "Acha que aguenta pimenta forte? Então saca estas!"
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/escala-5.jpg",
-          "link": "https://www.mspepe.com.br/as-pimentas-mais-temidas",
-          "alt": "Os molhos de pimenta mais temidos. Aqui você encontra os mais ardidos."
-        },
-        {
-          "img": "/img/uploads/escala-4.jpg",
-          "link": "https://www.mspepe.com.br/pimentas-um-sol-pra-cada-um",
-          "alt": "Parece até que tem um Sol pra cada um, mas são só uns molhos de pimenta realmente fortes!"
-        }
-      ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "605cdf1ba46e555927c52e01:brands:Alma Quente:/marcas/alma-quente",
-      "title": "Quer um molho com alma? Experimente os da Alma Quente!"
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/escala-3.jpg",
-          "link": "https://www.mspepe.com.br/pimenta-parece-que-nao-mas-ta-quente",
-          "alt": "Parece que não, mas estes molhos de pimenta são bem fortes!",
-          "mobile_img": ""
-        },
-        {
-          "img": "/img/uploads/escala-2.jpg",
-          "link": "https://www.mspepe.com.br/pimenta-suave-ta-tranquilo-ta-favoravel",
-          "alt": "Tá tranquilo, tá favorável. Esse molho de pimenta vai bem e refresca!"
-        }
-      ]
+      "title": "Molhos para todos os gostos!",
+      "link": "https://www.mspepe.com.br/pimentas"
     },
     {
       "type": "brands-carousel",
       "limit": 24,
-      "offset": 0
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/1.jpg",
-          "link": "https://www.mspepe.com.br/molhos-de-pimenta-suave-na-nave",
-          "alt": "Esses molhos são saborosos e quase sem ardência. Até criança fica suave na nave!"
-        }
-      ]
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/banner-pym-co-pia.jpg",
-          "alt": "Compre a linha de molhos de pimentas PYM - Pepper Your Mind",
-          "link": "https://www.mspepe.com.br/marcas/pepper-your-mind"
-        },
-        {
-          "img": "/img/uploads/banner-carolina-reaper-leve.jpeg",
-          "link": "https://www.mspepe.com.br/search?term=carolina",
-          "alt": "Confira os molhos feitos com a temida pimenta Carolina Reaper"
-        }
-      ]
+      "offset": 0,
+      "sort": "name"
     }
   ]
 }
