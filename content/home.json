@@ -4,7 +4,7 @@
   "sections": [
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/banner-grande-desktop.png",
+      "img": "/img/uploads/pimentas.png",
       "link": "https://www.mspepe.com.br/pimentas",
       "mobile_img": "/img/uploads/design-sem-nome.png"
     },
@@ -40,6 +40,22 @@
       "sort": "news",
       "title": "Azeites de Oliva Extra Virgem",
       "link": "https://www.mspepe.com.br/azeites"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/cachac-as.png",
+      "link": "https://www.mspepe.com.br/cachacas",
+      "mobile_img": "/img/uploads/banner-principal-mobile.png"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "627589f43da6d37bc22434f9:categories:Cachaças:/cachacas",
+      "sort": "sales",
+      "title": "O líquido sagrado: cachaça!!!",
+      "link": "https://www.mspepe.com.br/cachacas"
     }
   ]
 }
