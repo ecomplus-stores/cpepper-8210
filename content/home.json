@@ -23,6 +23,29 @@
       "limit": 24,
       "offset": 0,
       "sort": "name"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/1.png",
+          "link": "https://www.mspepe.com.br/azeites"
+        },
+        {
+          "img": "/img/uploads/2.png",
+          "link": "https://www.mspepe.com.br/molhos-e-condimentos"
+        }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6203f0ff7963422eeef611fd:categories:Azeites:/azeites",
+      "sort": "news",
+      "title": "Azeites de Oliva Extra Virgem",
+      "link": "https://www.mspepe.com.br/azeites"
     }
   ]
 }
