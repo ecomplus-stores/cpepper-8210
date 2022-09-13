@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.86d2ea82a20d6fdfc094704cecce8a72.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.58ebfaa3fa09220f647e7c658977d9f4.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.53a6fef42886de3d9923bebf767eeb63.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.531f804fcf71e1eb10f6caca54aa1d37.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.13171675fdae0c1951e719604a705eca.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Ms. Pepe",
+  "short_name": "Ms. Pepe",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "A melhor curadoria de produtos do Brasil!",
+  "background_color": "#ffffff",
+  "theme_color": "#1d1b1b"
+}

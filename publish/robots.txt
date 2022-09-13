@@ -1,0 +1,24 @@
+User-agent: *
+Allow:
+User-agent: Googlebot
+Allow:
+User-agent: Googlebot-Image
+Allow:
+User-agent: Mediapartners-Google
+Allow:
+User-agent: Adsbot-Google
+Allow:
+Allow: /
+Disallow: /app/$
+Disallow: /app/index$
+Disallow: /app/index.html$
+Disallow: /search$
+Disallow: /search.html$
+Disallow: /admin/$
+Disallow: /admin/index$
+Disallow: /admin/index.html$
+Disallow: /admin/cms/$
+Disallow: /admin/cms/index$
+Disallow: /admin/cms/index.html$
+
+Sitemap: https://www.mspepe.com.br/sitemap.xml
